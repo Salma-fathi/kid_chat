@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "54486005550",
+    "project_id": "kide-cee17",
+    "storage_bucket": "kide-cee17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54486005550:android:bf45aaefe8db8cb720ecbf",
+        "android_client_info": {
+          "package_name": "com.company.kide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54486005550-hm3fpthgk53abgm6ifm0q8edoadqigbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdtdesnvICvNXmMNub7Q3YywOjyZHn-mM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54486005550-hm3fpthgk53abgm6ifm0q8edoadqigbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
