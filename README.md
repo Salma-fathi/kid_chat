@@ -1,6 +1,6 @@
 # Kide Chat
 
-![Kide Chat Logo]
+
 
 Welcome to Kide Chat, your ultimate destination for seamless and secure communication with friends and family. Powered by Flutter and Firebase, Kide Chat offers a modern and intuitive chatting experience that keeps you connected wherever you go.
 
@@ -66,7 +66,7 @@ If you encounter any issues or have any questions, don't hesitate to reach out t
 
 ## License
 
-Kide Chat is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+Kide Chat is licensed under the MIT License. 
 
 ---
 
