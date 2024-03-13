@@ -15,7 +15,7 @@ Welcome to Kide Chat, your ultimate destination for seamless and secure communic
 
 ### Drawer
 
-- `components/Drawer.dart`: Convenient navigation drawer for easy access to settings and more.
+- `components/Drawer.dart`: Convenient navigation drawer for easy access to profile ,sittings,privacy and security ,data and storage ,help.
 
 ### Text Field
 
