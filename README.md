@@ -1,4 +1,4 @@
-# Kide Chat
+# Kide
 
 
 
