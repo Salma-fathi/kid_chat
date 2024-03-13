@@ -56,17 +56,6 @@ Welcome to Kide Chat, your ultimate destination for seamless and secure communic
 - `firebase_auth`: Firebase authentication for Flutter.
 - `cloud_firestore`: Firebase Cloud Firestore for Flutter.
 
-## Contribute
-
-We welcome contributions from the community to enhance Kide Chat and make it even better! Feel free to submit pull requests, report issues, or suggest new features.
-
-## Support
-
-If you encounter any issues or have any questions, don't hesitate to reach out to our support team at support@kidechat.com.
-
-## License
-
-Kide Chat is licensed under the MIT License. 
 
 ---
 
